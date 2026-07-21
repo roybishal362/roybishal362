@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="./bishal_profile_v2_1774987945603.png" width="100%" />
+<img src="./bishal_profile_v2_1774987945603.png" width="40%" />
 
 <a href="https://www.linkedin.com/in/bishal-roy-5410b5257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://bishal-roypy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
