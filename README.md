@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Bishal%20Roy&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%C2%B7%20Building%20intelligent%20systems%20that%20ship&descSize=18&descAlignY=60" width="100%" />
+<img src="./bishal_profile_v2_1774987945603.png" width="100%" />
 
 <a href="https://www.linkedin.com/in/bishal-roy-5410b5257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://bishal-roypy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
